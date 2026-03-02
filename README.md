@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bhushan Bhutada
 
-<!--
-**bhushanbhutada03/bhushanbhutada03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student building strong foundations in programming, data structures, and database systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Languages:** Python, Java  
+**Core Concepts:** Data Structures & Algorithms, OOP, DBMS, SQL  
+**Tools:** Git, GitHub  
+**CRM:** Salesforce (Basic)
+
+---
+
+## Work & Development
+
+Academic and self-driven projects available in repositories.
+
+Currently focused on:
+- Strengthening DSA implementation
+- Writing structured, modular Python programs
+- Designing small database-driven systems
+
+---
+
+## Contact
+
+**Email:** bhushanbhutada03@gmail.com  
+**Academic Email:** bhutadabs@rknec.edu  
+**LinkedIn:** https://www.linkedin.com/in/bhushan-bhutada-37b914295
