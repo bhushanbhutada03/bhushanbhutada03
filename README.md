@@ -1,52 +1,69 @@
-# Bhushan Bhutada
+# Hi, I'm Bhushan Bhutada
 
-Computer Engineering student focused on building strong foundations in programming, data structures, and database systems.  
-Interested in developing practical software solutions and continuously improving problem-solving skills through real projects.
+Computer Engineering student building practical projects in Python and Java while strengthening core computer science concepts such as Data Structures, Object-Oriented Programming, and database systems.
 
----
+## Projects
 
-## Technical Skills
+### Cipher Vault — Python CLI Password Manager
 
-**Languages:** Python, Java  
-**Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, SQL  
-**Tools:** Git, GitHub  
-**CRM:** Salesforce (Basic)
+- Built a Python CLI password manager using XOR-based encryption for secure credential storage  
+- Implemented encrypted credential storage with JSON-based file persistence  
+- Designed a menu-driven interface to add, update, delete, and retrieve credentials  
 
----
+### YouTube Manager — Python CLI Application
 
-## Featured Projects
+- Built a Python CLI application to manage YouTube video records using JSON storage  
+- Implemented CRUD operations for structured data management  
+- Designed modular functions to maintain clean and maintainable application logic  
 
-### Cipher Vault – Python CLI Password Manager
-A command-line password manager that securely stores website credentials using XOR-based encryption.  
-The application allows users to add, update, delete, and retrieve encrypted passwords stored in a local JSON file.
 
-**Key Concepts:** Encryption logic, file handling, JSON storage, CLI design
+## Tech Stack
 
----
+### Languages
+<p align="center">
 
-### YouTube Manager – Python CLI Application
-A command-line application for managing YouTube video records with JSON-based persistent storage.  
-Users can add, list, update, and delete video information through a menu-driven interface.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Key Concepts:** CRUD operations, JSON data management, modular Python programming
+</p>
 
----
+### Libraries
+<p align="center">
 
-## Work & Development
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Academic and self-driven projects available in repositories.
+</p>
 
-Currently focused on:
+### Database
+<p align="center">
 
-- Strengthening Data Structures & Algorithms implementation
-- Writing structured and modular Python programs
-- Designing small database-driven systems
-- Building practical command-line applications
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
+</p>
+
+### Tools
+<p align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</p>
+
+### CRM
+<p align="center">
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</p>
+
 
 ## Contact
 
-Email: bhushanbhutada03@gmail.com  
-Academic Email: bhutadabs@rknec.edu  
-LinkedIn: https://www.linkedin.com/in/bhushan-bhutada-37b914295
+- Email: bhushanbhutada03@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/bhushan-bhutada-37b914295
