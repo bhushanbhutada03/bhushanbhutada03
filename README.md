@@ -6,9 +6,9 @@ Computer Engineering student building practical projects in Python and Java whil
 
 ### Cipher Vault — Python CLI Password Manager
 
-- Built a Python CLI password manager using XOR-based encryption for secure credential storage  
-- Implemented encrypted credential storage with JSON-based file persistence  
-- Designed a menu-driven interface to add, update, delete, and retrieve credentials  
+- Developed a Python-based CLI password manager with MySQL integration for persistent credential storage  
+- Implemented XOR-based encryption and decryption logic to secure stored credentials  
+- Designed a modular CLI interface supporting CRUD operations with input validation and PIN-based access control   
 
 ### YouTube Manager — Python CLI Application
 
