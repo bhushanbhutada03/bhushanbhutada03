@@ -1,6 +1,6 @@
 # Hi, I'm Bhushan Bhutada
 
-Computer Engineering student building practical projects in Python and Java while strengthening core computer science concepts such as Data Structures, Object-Oriented Programming, and database systems.
+Computer Engineering student building practical software projects in Python and Java, with experience in database-driven applications and core computer science concepts such as Data Structures, Object-Oriented Programming, and DBMS.
 
 ## Projects
 
@@ -8,14 +8,13 @@ Computer Engineering student building practical projects in Python and Java whil
 
 - Developed a password manager with CLI and Streamlit interface, integrated with MySQL for persistent credential storage  
 - Implemented XOR-based encryption and decryption to secure stored passwords  
-- Designed modular application logic with input validation and PIN-based access control for credential management    
+- Designed modular application logic with input validation and PIN-based access control for credential management  
 
 ### YouTube Manager — Python CLI Application
 
-- Built a Python CLI application to manage YouTube video records using JSON storage  
-- Implemented CRUD operations for structured data management  
-- Designed modular functions to maintain clean and maintainable application logic  
-
+- Built a CLI application to manage YouTube video records with JSON-based storage  
+- Implemented CRUD operations using file handling for persistent data management  
+- Structured application logic into modular functions for efficient program flow  
 
 ## Tech Stack
 
@@ -55,14 +54,6 @@ Computer Engineering student building practical projects in Python and Java whil
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
-
-### CRM
-<p align="center">
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-</p>
-
 
 ## Contact
 
