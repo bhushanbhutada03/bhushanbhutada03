@@ -10,6 +10,12 @@ Computer Engineering student building practical software projects in Python and 
 - Implemented XOR-based encryption and decryption to secure stored passwords  
 - Designed modular application logic with input validation and PIN-based access control for credential management  
 
+### Fake Account Detection using Graph Analytics + Machine Learning (Python • NetworkX • Scikit-learn)
+
+- Built a hybrid fake account detection system by combining graph analytics with machine learning techniques  
+- Extracted graph-based features such as PageRank, degree metrics, and clustering coefficient using NetworkX for social network analysis  
+- Integrated graph-derived features with ML models including Random Forest and Gradient Boosting for account classification  
+
 ### YouTube Manager — Python CLI Application
 
 - Built a CLI application to manage YouTube video records with JSON-based storage  
