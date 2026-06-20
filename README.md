@@ -1,7 +1,7 @@
 # Hi, I'm Bhushan Bhutada
  
 Computer Engineering student building practical software projects in Python and Java, with experience in database-driven applications and core computer science concepts such as Data Structures, Object-Oriented Programming, and DBMS.
-
+ 
 ## Projects
 
 ### Cipher Vault — Password Manager (Python • MySQL • Streamlit)
