@@ -17,7 +17,7 @@ Computer Engineering student building practical software projects in Java and Py
 * Implemented XOR-based encryption and decryption to secure stored passwords
 * Designed modular application logic with input validation and PIN-based access control for credential management
 
-### Fake Account Detection using Graph Analytics & Machine Learning (Python • NetworkX • Scikit-learn)
+### Graph-Based Fake Account Detection With Machine Learning (Python • NetworkX • Scikit-learn)
 
 * Designed a fake account classification pipeline using interaction network data
 * Extracted graph-based features such as PageRank, In-Degree, and Out-Degree using NetworkX
