@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Bhushan Bhutada 👋</h1>
+<h1 align="center">Bhushan Bhutada</h1>
+
+<p align="center">
+Backend Developer • Java • Spring Boot • Machine Learning
+</p>
 
 <p align="center">
 Computer Science and Engineering Student • Java Backend Developer • Machine Learning Enthusiast
@@ -264,22 +268,3 @@ Console-based banking application developed using layered architecture and clean
 
 ---
 
-# Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bhushanbhutada03&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-<p align="center">
-
-Building secure software, learning continuously, and solving real-world engineering problems.
-
-</p>
-
-https://github.com/bhushanbhutada03/BankFlow-Java
-
----
