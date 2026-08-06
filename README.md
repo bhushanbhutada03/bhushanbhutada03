@@ -42,7 +42,7 @@ Building secure backend applications, solving algorithmic problems, and developi
 # Certification
 
 <p align="center">
-  <img src="assets/certification/salesforce-platform-administrator.png"
+  <img src="assets/certification/badge.png"
        alt="Salesforce Certified Platform Administrator"
        width="140"/>
 </p>
