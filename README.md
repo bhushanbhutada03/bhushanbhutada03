@@ -39,6 +39,24 @@ Building secure backend applications, solving algorithmic problems, and developi
 
 ---
 
+# Certification
+
+<p align="center">
+  <img src="assets/certification/salesforce-platform-administrator.png"
+       alt="Salesforce Certified Platform Administrator"
+       width="140"/>
+</p>
+
+<p align="center">
+<b>Salesforce Certified Platform Administrator</b>
+</p>
+
+<p align="center">
+Earned the Salesforce Platform Administrator certification, demonstrating proficiency in Salesforce administration, security, automation, data management, reporting, and platform configuration.
+</p>
+
+---
+
 # Featured Projects
 
 ## Cipher Vault
@@ -268,21 +286,7 @@ Console-based banking application developed using layered architecture and clean
 
 ---
 
-# Certification
 
-<p align="center">
-  <img src="badge.png" alt="Salesforce Certified Platform Administrator" width="140"/>
-</p>
-
-<p align="center">
-<b>Salesforce Certified Platform Administrator</b>
-</p>
-
-<p align="center">
-Earned the Salesforce Platform Administrator certification, demonstrating proficiency in Salesforce administration, security, automation, data management, reporting, and platform configuration.
-</p>
-
----
 
 <p align="center">
 Thanks for visiting my profile.
