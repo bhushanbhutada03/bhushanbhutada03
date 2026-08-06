@@ -22,10 +22,6 @@ Building secure backend applications, solving algorithmic problems, and developi
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/bhushanbhutada03">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
 </p>
 
 ---
@@ -139,17 +135,7 @@ Console-based banking application developed using layered architecture and clean
 
 </p>
 
----
 
-### Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-
-</p>
 
 ---
 
@@ -223,46 +209,6 @@ Console-based banking application developed using layered architecture and clean
 
 ---
 
-# Currently Focusing On
-
-- Backend Development using Spring Boot
-- Data Structures & Algorithms
-- Machine Learning
-- SQL & Database Design
-- Docker & Deployment
-
----
-
-# Currently Learning
-
-- Spring Security
-- System Design Fundamentals
-- Advanced SQL
-- Microservices Architecture
-- Cloud Deployment
-
----
-
-
-# Connect With Me
-
-<p>
-
-<a href="mailto:bhushanbhutada03@gmail.com">
-<img src="https://img.shields.io/badge/Email-bhushanbhutada03@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhushan-bhutada-37b914295">
-<img src="https://img.shields.io/badge/LinkedIn-Bhushan_Bhutada-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/bhushanbhutada03">
-<img src="https://img.shields.io/badge/GitHub-bhushanbhutada03-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
 
 # Coding Profiles
 
@@ -285,7 +231,6 @@ Console-based banking application developed using layered architecture and clean
 </p>
 
 ---
-
 
 
 <p align="center">
