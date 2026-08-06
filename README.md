@@ -268,3 +268,10 @@ Console-based banking application developed using layered architecture and clean
 
 ---
 
+# Achievements
+
+- Salesforce Certified Platform Administrator
+
+<p align="center">
+Thanks for visiting my profile.
+</p>
