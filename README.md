@@ -5,7 +5,6 @@
 </p><p align="center">
   <a href="mailto:bhushanbhutada03@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/bhushan-bhutada-37b914295">LinkedIn</a> •
-  <a href="https://github.com/bhushanbhutada03">GitHub</a> •
   <a href="https://leetcode.com/u/bhushanbhutada/">LeetCode</a>
 </p>---
 
@@ -135,14 +134,6 @@ Languages
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>---
-
-Coding Profile
-
-<p>
-<a href="https://leetcode.com/u/bhushanbhutada/">
-<img src="https://img.shields.io/badge/LeetCode-Bhushan_Bhutada-orange?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
 </p>---
 
 <p align="center">
