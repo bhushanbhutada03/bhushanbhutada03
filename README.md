@@ -30,15 +30,14 @@
 
 <h2>About</h2>
 
-<h3>Computer Science and Engineering student focused on Java backend development and software engineering.</h3>
+<p>Computer Science and Engineering student focused on Java backend development and software engineering.</p>
 
-<h3>- Building backend applications with Java, Spring Boot, REST APIs, Spring Security, and SQL.</h3>
-
-<h3>- Strong foundation in Object-Oriented Programming, Data Structures and Algorithms, DBMS, and software design.</h3>
-
-<h3>- Experience developing secure applications with authentication, encryption, relational databases, and containerized environments.</h3>
-
-<h3>- Exploring Machine Learning, graph analytics, and data-driven problem solving.</h3>
+<ul>
+<li>Building backend applications with Java, Spring Boot, REST APIs, Spring Security, and SQL.</li>
+<li>Strong foundation in Object-Oriented Programming, Data Structures and Algorithms, DBMS, and software design.</li>
+<li>Experience developing secure applications with authentication, encryption, relational databases, and containerized environments.</li>
+<li>Exploring Machine Learning, graph analytics, and data-driven problem solving.</li>
+</ul>
 
 ---
 
@@ -48,21 +47,23 @@
 
 <p><strong>Spring Boot • React • MySQL • Spring Security • Docker</strong></p>
 
-<h3>Secure full-stack password manager focused on authentication, encrypted credential storage, and backend application design.</h3>
+<p>Secure full-stack password manager focused on authentication, encrypted credential storage, and backend application design.</p>
 
-<h3>Key Features</h3>
+<p><strong>Key Features</strong></p>
 
-<h3>- JWT-based authentication with Spring Security</h3>
-<h3>- AES-encrypted credential storage</h3>
-<h3>- Master password verification</h3>
-<h3>- Recovery key mechanism</h3>
-<h3>- Password history management</h3>
-<h3>- RESTful backend architecture</h3>
-<h3>- MySQL database integration</h3>
-<h3>- Dockerized application environment</h3>
+<ul>
+<li>JWT-based authentication with Spring Security</li>
+<li>AES-encrypted credential storage</li>
+<li>Master password verification</li>
+<li>Recovery key mechanism</li>
+<li>Password history management</li>
+<li>RESTful backend architecture</li>
+<li>MySQL database integration</li>
+<li>Dockerized application environment</li>
+</ul>
 
-<h3>Repository:</h3>
-https://github.com/bhushanbhutada03/Cipher_Vault
+<p><strong>Repository:</strong><br>
+https://github.com/bhushanbhutada03/Cipher_Vault</p>
 
 ---
 
@@ -70,19 +71,21 @@ https://github.com/bhushanbhutada03/Cipher_Vault
 
 <p><strong>Python • Scikit-learn • NetworkX • Pandas</strong></p>
 
-<h3>Machine learning system for detecting fake accounts using behavioral features and graph-based analysis.</h3>
+<p>Machine learning system for detecting fake accounts using behavioral features and graph-based analysis.</p>
 
-<h3>Key Features</h3>
+<p><strong>Key Features</strong></p>
 
-<h3>- Behavioral feature engineering</h3>
-<h3>- Graph construction and network analysis</h3>
-<h3>- PageRank, in-degree, and out-degree analysis</h3>
-<h3>- Random Forest and Gradient Boosting classification</h3>
-<h3>- Community detection for interaction analysis</h3>
-<h3>- Model evaluation and comparative analysis</h3>
+<ul>
+<li>Behavioral feature engineering</li>
+<li>Graph construction and network analysis</li>
+<li>PageRank, in-degree, and out-degree analysis</li>
+<li>Random Forest and Gradient Boosting classification</li>
+<li>Community detection for interaction analysis</li>
+<li>Model evaluation and comparative analysis</li>
+</ul>
 
-<h3>Repository:</h3>
-https://github.com/bhushanbhutada03/Graph-Based-Fake-Account-Detection
+<p><strong>Repository:</strong><br>
+https://github.com/bhushanbhutada03/Graph-Based-Fake-Account-Detection</p>
 
 ---
 
@@ -90,21 +93,24 @@ https://github.com/bhushanbhutada03/Graph-Based-Fake-Account-Detection
 
 <p><strong>Salesforce • Lightning Experience • Custom Objects • Validation Rules • Record-Triggered Flows • Reports • Dashboards</strong></p>
 
-<h3>Salesforce-based recruitment management system for managing companies, job positions, candidates, applications, interviews, and recruitment automation.</h3>
+<p>Salesforce-based recruitment management system for managing companies, job positions, candidates, applications, interviews, and recruitment automation.</p>
 
-<h3>Key Features</h3>
+<p><strong>Key Features</strong></p>
 
-<h3>- Company and job position management</h3>
-<h3>- Candidate profile and recruitment status management</h3>
-<h3>- Application tracking from application to selection or rejection</h3>
-<h3>- Interview scheduling and tracking</h3>
-<h3>- Automatic candidate status update when an application is selected</h3>
-<h3>- Automated interview email notification</h3>
-<h3>- Validation rules for recruitment data</h3>
-<h3>- Reports and dashboard for recruitment monitoring</h3>
+<ul>
+<li>Company and job position management</li>
+<li>Candidate profile and recruitment status management</li>
+<li>Application tracking from application to selection or rejection</li>
+<li>Interview scheduling and tracking</li>
+<li>Automatic candidate status update when an application is selected</li>
+<li>Automated interview email notification</li>
+<li>Validation rules for recruitment data</li>
+<li>Reports and dashboard for recruitment monitoring</li>
+</ul>
 
-<h3>Repository:</h3>
-https://github.com/bhushanbhutada03/Salesforce-Recruitment-Management-System
+<p><strong>Repository:</strong><br>
+https://github.com/bhushanbhutada03/Salesforce-Recruitment-Management-System</p>
+
 ---
 
 <h2>Technical Skills</h2>
