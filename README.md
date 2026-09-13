@@ -86,25 +86,25 @@ https://github.com/bhushanbhutada03/Graph-Based-Fake-Account-Detection
 
 ---
 
-<h3>BankFlow</h3>
+<h3>Salesforce Recruitment Management System</h3>
 
-<p><strong>Java • OOP • Java Collections</strong></p>
+<p><strong>Salesforce • Lightning Experience • Custom Objects • Validation Rules • Record-Triggered Flows • Reports • Dashboards</strong></p>
 
-<h3>Console-based banking application designed using object-oriented principles and layered architecture.</h3>
+<h3>Salesforce-based recruitment management system for managing companies, job positions, candidates, applications, interviews, and recruitment automation.</h3>
 
 <h3>Key Features</h3>
 
-<h3>- Account creation and management</h3>
-<h3>- Deposits and withdrawals</h3>
-<h3>- Fund transfers</h3>
-<h3>- Transaction history</h3>
-<h3>- Java Collections-based data management</h3>
-<h3>- Custom exception handling</h3>
-<h3>- Separation of domain, repository, service, and application layers</h3>
+<h3>- Company and job position management</h3>
+<h3>- Candidate profile and recruitment status management</h3>
+<h3>- Application tracking from application to selection or rejection</h3>
+<h3>- Interview scheduling and tracking</h3>
+<h3>- Automatic candidate status update when an application is selected</h3>
+<h3>- Automated interview email notification</h3>
+<h3>- Validation rules for recruitment data</h3>
+<h3>- Reports and dashboard for recruitment monitoring</h3>
 
 <h3>Repository:</h3>
-https://github.com/bhushanbhutada03/BankFlow-Java
-
+https://github.com/bhushanbhutada03/Salesforce-Recruitment-Management-System
 ---
 
 <h2>Technical Skills</h2>
